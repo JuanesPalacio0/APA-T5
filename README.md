@@ -1,6 +1,6 @@
 # Sonido estéreo y ficheros WAVE
 
-## Nom i cognoms
+## Juan Esteban Palacio Ibarra 
 
 ## El formato WAVE
 
