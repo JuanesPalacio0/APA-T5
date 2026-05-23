@@ -33,7 +33,7 @@ def escribir_cabecera(f, params, data_size):
         36 + data_size,
         b'WAVE',
         b'fmt ', 16,
-        1,  # PCM
+        1,  
         params['num_channels'],
         params['sample_rate'],
         params['sample_rate'] * params['num_channels'] * 2,
